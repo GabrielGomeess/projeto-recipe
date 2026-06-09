@@ -60,7 +60,7 @@ p {
 .box-preparation {
   background-color: var(--cor01);
   border-radius: 8px;
-  margin: 1.75rem 0;
+  margin: 2rem 0;
   padding: 1.5rem;
 }
 
@@ -106,7 +106,7 @@ strong {
 }
 
 .ingredients-items {
-  line-height: 1.8rem;
+  line-height: 2rem;
 }
 
 .instructions-items {
